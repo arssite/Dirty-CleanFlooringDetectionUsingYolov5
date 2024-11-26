@@ -58,7 +58,7 @@ project/
 ## Example Annotated Output
 Annotated images include bounding boxes and cleanliness scores (0–4). Below is an example of a processed image:
 
-![Annotated Example](project/yolo/output/example_annotated_image.jpg)
+![Annotated Example](floor66.png)![Annotated Example](efloor63_0.png)
 
 ---
 
