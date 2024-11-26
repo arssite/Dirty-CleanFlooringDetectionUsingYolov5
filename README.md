@@ -112,3 +112,5 @@ Key performance metrics:
 - Experiment with **advanced architectures** like YOLOv8 or custom CNNs.
 - Add real-time deployment capabilities using NVIDIA TensorRT.
 
+##References (Relevant research papers or resources)
+https://www.nature.com/articles/s41598-023-38538-3.pdf
