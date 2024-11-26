@@ -113,4 +113,9 @@ Key performance metrics:
 - Add real-time deployment capabilities using NVIDIA TensorRT.
 
 ##References (Relevant research papers or resources)
+<br>
 https://www.nature.com/articles/s41598-023-38538-3.pdf
+<br>
+file:///C:/Users/hp/Downloads/ADeepLearningApproachforClassificationofCleanlinessinRestrooms.pdf
+<br>
+https://www.researchgate.net/publication/356691001_A_Deep_Learning-Based_Dirt_Detection_Computer_Vision_System_for_Floor-Cleaning_Robots_with_Improved_Data_Collection
